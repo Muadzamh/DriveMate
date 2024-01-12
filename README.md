@@ -1,5 +1,5 @@
 Team Oggle
-[Screenshot (2230)](https://github.com/Muadzamh/DriveMate/assets/148083629/2f7becfd-6875-40d2-924e-d70da9631713)
+![Screenshot (2230)](https://github.com/Muadzamh/DriveMate/assets/148083629/8fe48943-3d8e-4064-8493-c5d016b6e45a)
 
 Hustler: Khilyah Nafisah
 Hipster: Goesniawan Xena Adikara
